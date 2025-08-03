@@ -1,0 +1,16 @@
+{
+  "stations": [
+    {
+      "name": "Ukr Radio",
+      "url": "http://192.168.1.77:8080/musica.mp3"
+    },
+    {
+      "name": "Radio Paradise",
+      "url": "https://stream-icy.bauermedia.pt/comercial.mp3"
+    },
+    {
+      "name": "3FM Radio",
+      "url": "http://icecast.omroep.nl/3fm-bb-mp3"
+    }
+  ]
+}
