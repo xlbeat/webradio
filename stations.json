@@ -1,12 +1,12 @@
 {
   "stations": [
     {
-      "name": "Ukr Radio",
-      "url": "http://192.168.1.77:8080/musica.mp3"
+      "name": "Radio Comercial OK",
+      "url": "https://stream-icy.bauermedia.pt/comercial.mp3"
     },
     {
-      "name": "Radio Paradise",
-      "url": "https://stream-icy.bauermedia.pt/comercial.mp3"
+      "name": "m80 OK",
+      "url": "https://stream-icy.bauermedia.pt/m80.mp3"
     },
     {
       "name": "3FM Radio",
