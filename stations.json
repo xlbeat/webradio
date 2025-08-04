@@ -1,38 +1,68 @@
-[
-    {
-        "id": 1,
-        "nome": "Radio Comercial",
-        "pais_id": 1,
-        "url": "https://stream-icy.bauermedia.pt/comercial.mp3"
-    },
-    {
-        "id": 2,
-        "nome": "m80",
-        "pais_id": 1,
-        "url": "https://stream-icy.bauermedia.pt/m80.mp3"
-    },
-    {
-        "id": 3,
-        "nome": "Cidade FM",
-        "pais_id": 1,
-        "url": "https://stream-icy.bauermedia.pt/cidade.mp3"
-    },
-    {
-        "id": 4,
-        "nome": "Cadena Ser",
-        "pais_id": 2,
-        "url": "https://27743.live.streamtheworld.com/CADENASER_SC"
-    },
-    {
-        "id": 5,
-        "nome": "COPE",
-        "pais_id": 2,
-        "url": "https://flucast13-h-cloud.flumotion.com/cope/net2.mp3"
-    },
-    {
-        "id": 6,
-        "nome": "Ukrainske Radio 1",
-        "pais_id": 4,
-        "url": "http://radio.nrcu.gov.ua:8000/ur1-mp3"
-    }
-]
+{
+    "paises": [
+        {
+            "id": 1,
+            "nome": "Portugal"
+        },
+        {
+            "id": 2,
+            "nome": "Espanha"
+        },
+        {
+            "id": 3,
+            "nome": "França"
+        },
+        {
+            "id": 4,
+            "nome": "Ucrania"
+        }
+    ],
+    "radios": [
+        {
+            "id": 1,
+            "nome": "Radio Comercial",
+            "pais_id": 1,
+            "url": "https://stream-icy.bauermedia.pt/comercial.mp3"
+        },
+        {
+            "id": 2,
+            "nome": "m80",
+            "pais_id": 1,
+            "url": "https://stream-icy.bauermedia.pt/m80.mp3"
+        },
+        {
+            "id": 3,
+            "nome": "Cidade FM",
+            "pais_id": 1,
+            "url": "https://stream-icy.bauermedia.pt/cidade.mp3"
+        },
+        {
+            "id": 4,
+            "nome": "Cadena Ser",
+            "pais_id": 2,
+            "url": "https://27743.live.streamtheworld.com/CADENASER_SC"
+        },
+        {
+            "id": 5,
+            "nome": "COPE",
+            "pais_id": 2,
+            "url": "https://flucast13-h-cloud.flumotion.com/cope/net2.mp3"
+        },
+        {
+            "id": 6,
+            "nome": "Ukrainske Radio 1",
+            "pais_id": 4,
+            "url": "http://radio.nrcu.gov.ua:8000/ur1-mp3"
+        }
+    ],
+    "favoritos": [
+        {
+            "id": 1,
+            "radio_id": 1
+        },
+        {
+            "id": 2,
+            "radio_id": 4
+        }
+    ]
+}
